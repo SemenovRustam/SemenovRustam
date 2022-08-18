@@ -1,6 +1,8 @@
 # Привет, я Рустам. 👋
-Я начинающий Java developer. Имею не большой опыт коммерческой разработки на Java.
+Я начинающий Java developer.
+Имею не большой опыт коммерческой разработки на Java.
 Прошел стажировку в компании Neoflex.
+Принимал участие в хакатоне NEOHACK.
 
 ## 🛠Technical Stack
 *   Java
@@ -8,6 +10,7 @@
 *   Spring Framework, Spring Boot,  Spring Data Jpa, Spring Jdbc template, Spring Cloud, Spring Security.
 *   Docker
 *   GitHub/GitLab/Bitbucket
+*   Swagger, Postman
 
 
 <p align='center'>
