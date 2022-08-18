@@ -13,6 +13,7 @@
 *   Spring Framework, Spring Boot,  Spring Data Jpa, Spring Jdbc template, Spring Cloud, Spring Security.
 *   Docker
 *   GitHub/GitLab/Bitbucket
+*   Kafka
 *   Swagger, Postman
 
 
