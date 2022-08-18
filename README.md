@@ -2,7 +2,7 @@
 Я начинающий Java developer. Имею не большой опыт коммерческой разработки на Java.
 Прошел стажировку в компании Neoflex.
 
-##Technical Stack
+## 🛠Technical Stack
 *   Java
 *   MySQL, PostgreSQL, Flyway, Liquibase
 *   Spring Framework, Spring Boot,  Spring Data Jpa, Spring Jdbc template, Spring Cloud, Spring Security.
