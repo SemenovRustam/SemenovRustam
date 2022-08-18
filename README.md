@@ -24,7 +24,7 @@
 *   [Tinkoff SDK API Service](https://github.com/SemenovRustam/TinkoffStockService) - Приложение, позволяющие получить информацию по акциям через Tinkoff SDK API.
 
 
-#### Написать мне:
+
 <p align='center'>
    <a href="https://t.me/Semenov_RV" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
